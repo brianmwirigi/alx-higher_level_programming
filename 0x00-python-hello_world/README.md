@@ -1,4 +1,5 @@
 0. Run Python file
 1. Run inline
 2. Hello, print
-3. Print integer
+3. Print intege
+4. Print floatr
