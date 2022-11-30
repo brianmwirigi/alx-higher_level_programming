@@ -2,4 +2,5 @@
 1. Run inline
 2. Hello, print
 3. Print intege
-4. Print floatr
+4. Print float
+5. Print string
