@@ -11,3 +11,4 @@
 10. Only by 2
 11. Delete at 1
 12. Switch
+13. Linked list palindrome
